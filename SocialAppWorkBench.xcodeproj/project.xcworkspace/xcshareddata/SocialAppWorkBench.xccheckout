@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9EEB7C7-37DD-46D8-BBD6-1AE70D310B8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SocialAppWorkBench</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5CDEFD68-4CA0-4A57-9783-DFEA0FDCB966</key>
+		<string>http://gurux123.gur.aricent.com:2100/svn/MA_Workbench</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/iOS/SNSIntegration/SocialAppWorkBench/SocialAppWorkBench.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5CDEFD68-4CA0-4A57-9783-DFEA0FDCB966</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5CDEFD68-4CA0-4A57-9783-DFEA0FDCB966</key>
+		<string>http://gurux123.gur.aricent.com:2100/svn/MA_Workbench</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://gurux123.gur.aricent.com:2100/svn/MA_Workbench/trunk/iOS/SNSIntegration/SocialAppWorkBench/SocialAppWorkBench.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5CDEFD68-4CA0-4A57-9783-DFEA0FDCB966</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CDEFD68-4CA0-4A57-9783-DFEA0FDCB966</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WorkBenchRepository</string>
+		</dict>
+	</array>
+</dict>
+</plist>
